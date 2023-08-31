@@ -4,7 +4,7 @@
 <h4 align="center"><a href="mailto:email@codeyborrelli@gmail.com">codeyborrelli@gmail.com</a></h4>
 
 <p align="center">
-I’m currently learning <b>Web Development</b> at the University of Georgia.<br>
+I’m currently learning <b>Software Development</b> at the University of Georgia.<br>
 I enjoy Backpacking, Gaming, and Coding.<br>
 Feel free to reach out!
 </p>
