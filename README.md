@@ -4,8 +4,8 @@
 <h4 align="center"><a href="mailto:email@codeyborrelli@gmail.com">codeyborrelli@gmail.com</a></h4>
 
 <p align="center">
-I’m currently learning **Web Development** at the University of Georgia.
-I enjoy **Backpacking**, **Gaming**, and **Coding**.
+I’m currently learning <b>Web Development</b> at the University of Georgia.
+I enjoy Backpacking, Gaming, and Coding.
 </p>
 
 <p align="center">
