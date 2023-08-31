@@ -1,6 +1,6 @@
 <h1 align="center">Codey Borrelli</h1>
 <h3 align="center">CS Student at UGA</h3>
-<h4 align="center"><a href="www.codeyborrelli.com">codeyborrelli.com</a></h4>
+<h4 align="center"><a href="www.codeyborrelli.com" target="blank">codeyborrelli.com</a></h4>
 <h4 align="center"><a href="mailto:email@codeyborrelli@gmail.com">codeyborrelli@gmail.com</a></h4>
 
 <p align="center">
