@@ -1,7 +1,7 @@
 <h1 align="center">Codey Borrelli</h1>
 <h3 align="center">CS Student at UGA</h3>
 <h4 align="center"><a href="https://epiccoco.github.io/">codeyborrelli.com</a></h4>
-<h4 align="center"><a href="mailto:email@codeyborrelli@gmail.com">codeyborrelli@gmail.com</a></h4>
+<h4 align="center"><a href="mailto:codeyborrelli@gmail.com">codeyborrelli@gmail.com</a></h4>
 
 <p align="center">
 I’m currently learning <b>Software Development</b> at the University of Georgia.<br>
